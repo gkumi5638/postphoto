@@ -12,9 +12,9 @@
 - 使わないブランチは削除してください
 
 ## About
-[このプロジェクトに関して](/docs/about.md)
-[DB設計](/docs/db.md)
-[APIドキュメント](/docs/api.md)
+- [このプロジェクトに関して](/docs/about.md)
+- [DB設計](/docs/db.md)
+- [APIドキュメント](/docs/api.md)
 
 ## Contents
 
