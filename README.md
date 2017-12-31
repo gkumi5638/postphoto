@@ -23,7 +23,7 @@
 ## Project initiation
 - リポジトリのクローン
 ```
-git clone git@github.com:masatakashida/crayon.git
+
 ```
 
 ## Configuration
