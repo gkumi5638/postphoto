@@ -23,7 +23,7 @@
 ## Project initiation
 - リポジトリのクローン
 ```
-
+git clone git@github.com:gkumi5638/postphoto.git
 ```
 
 ## Configuration
