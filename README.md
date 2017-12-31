@@ -12,7 +12,7 @@
 - 使わないブランチは削除してください
 
 ## About
-[AboutMe](/docs/about.md)
+[このプロジェクトに関して](/docs/about.md)
 
 ## Contents
 
