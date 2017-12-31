@@ -11,13 +11,12 @@
 - Pull Requestがレビューされたらmasterにマージし、その場で本番環境にリリースする
 - 使わないブランチは削除してください
 
+## About
+[AboutMe](/docs/about.md)
+
 ## Contents
 
 ## Features
-
-### アプリケーションサーバー
-
-### デプロイ
 
   
 ## Project initiation
