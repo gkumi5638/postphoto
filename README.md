@@ -1,6 +1,4 @@
 # README
-## sample
-## sample
 
 ## サービス
 - 位置情報付きの写真投稿サイト
