@@ -11,13 +11,14 @@
 - Pull Requestがレビューされたらmasterにマージし、その場で本番環境にリリースする
 - 使わないブランチは削除してください
 
+## About
+- [このプロジェクトに関して](/docs/about.md)
+- [DB設計](/docs/db.md)
+- [APIドキュメント](/docs/api.md)
+
 ## Contents
 
 ## Features
-
-### アプリケーションサーバー
-
-### デプロイ
 
   
 ## Project initiation
