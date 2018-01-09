@@ -47,4 +47,5 @@ footer
 
 .footer_menu {
 	list-style: none;
+	display: inline-flex;
 }
