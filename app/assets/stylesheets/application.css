@@ -34,12 +34,17 @@ header {
 }
 
 header h3 {
-  margin: 0px;
+	margin: 0px;
+	padding-left: 15px;
 }
 
 /* -------------------------
 main
 ------------------------- */
+
+main {
+	padding: 10px;
+}
 
 /* -------------------------
 footer
