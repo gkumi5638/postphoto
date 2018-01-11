@@ -21,7 +21,7 @@ common
 ------------------------- */
 
 body {
-	margin: 0px;
+  margin: 0px;
 }
 
 /* -------------------------
@@ -29,12 +29,12 @@ header
 ------------------------- */
 
 header {
-	background-color: #24292e;
-	color: white;
+  background-color: #24292e;
+  color: white;
 }
 
 header h3 {
-	margin: 0px;
+  margin: 0px;
 }
 
 /* -------------------------
@@ -46,10 +46,10 @@ footer
 ------------------------- */
 
 .footer_menu {
-	list-style: none;
-	display: inline-flex;
+  list-style: none;
+  display: inline-flex;
 }
 
 .footer_menu li {
-	padding-right: 15px;
+  padding-right: 15px;
 }
